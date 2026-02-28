@@ -85,10 +85,10 @@ Automated School Reports
 
 The system automatically generates:
 
-- 📄 All Students Learning Report
-- 📄 High Risk Students Intervention Report
-- 📊 Learning Persona Analytics
-- 📈 Risk Prediction Visualizations
+-  All Students Learning Report
+-  High Risk Students Intervention Report
+-  Learning Persona Analytics
+-  Risk Prediction Visualizations
 
 These reports assist educators in timely academic intervention.
 
